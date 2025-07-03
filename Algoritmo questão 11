@@ -1,0 +1,13 @@
+#include <iostrem>
+using namespace std;
+
+int main() {
+  int num1 = 10
+  int *ptr = &num1; 
+
+  cout << "Valor da variavel: " << num1 <<endl;
+  cout << "Endereço da variavel: <<ptr <<endl;
+  cout <<endl;
+
+  return 0;
+}
